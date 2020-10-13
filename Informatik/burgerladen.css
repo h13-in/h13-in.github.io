@@ -1,0 +1,47 @@
+body {
+    background-image: url("https://ais.kochbar.de/vms/5ced0e371d90da128862f2c2/so-geht-der-klassischer-burger.jpg");
+}
+
+h1 {
+    text-align: center;
+    color: white;
+    background-color: black;
+}
+
+
+
+ a.tischreservierung {
+    display: block;
+    overflow: hidden;
+    width: 0;
+    padding-left: 452px;
+    height: 452px;
+    background-image: url("https://img.icons8.com/ios/452/table.png");
+    position: fixed;
+    left: 100px;
+    
+
+}
+
+
+
+a.take-away {
+    display: block;
+    overflow: hidden;
+    width: 0;
+    padding-left: 512px;
+    height: 512px;
+    background-image: url("https://cdn2.iconfinder.com/data/icons/rounded-set-1/512/Car-512.png");
+    margin-left: 700px;
+    position: fixed;
+    top:80px;
+    right: 100px;
+}
+
+
+p.first {
+    position: fixed;
+    top: 600px;
+    left: 260px;
+    size: 22px;
+}
