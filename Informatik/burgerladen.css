@@ -43,13 +43,13 @@ p.first {
     position: fixed;
     top: 600px;
     left: 260px;
-    size: 22px;
+  
 }
 
 
 p.second  {
     position: fixed;
-    top: 600px;
+    top: 700px;
     right: 260px;
-    size: 22px;
+    
 }
