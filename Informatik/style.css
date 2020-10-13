@@ -1,0 +1,21 @@
+body {
+    background-color: rgb(28, 28, 30);
+}
+
+
+h1.style {
+    color: lightblue;
+    text-align: center;
+
+}
+
+
+button {
+    background-color: lightblue;
+    color: black;
+    margin-left: auto;
+    margin-right: auto;
+    /*text-align: center;*/
+}
+
+
