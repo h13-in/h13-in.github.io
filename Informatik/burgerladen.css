@@ -45,3 +45,11 @@ p.first {
     left: 260px;
     size: 22px;
 }
+
+
+p.second  {
+    position: fixed;
+    top: 600px;
+    right: 260px;
+    size: 22px;
+}
