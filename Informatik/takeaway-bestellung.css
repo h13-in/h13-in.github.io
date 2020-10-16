@@ -22,3 +22,17 @@ div {
     text-align: center;
 }
 
+
+form {
+    text-align: center;
+    box-align: center;
+    
+}
+
+caption {
+    text-align: center;
+    font-weight: bold;
+    box-align: center;
+}
+
+
