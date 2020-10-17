@@ -1,0 +1,114 @@
+
+
+
+/* TABLE */
+
+table, th, td {
+    border: 3px solid #1e2124;
+    border-spacing: 0.3em; 
+    background-color: #36393e;
+    box-align: center;
+   text-align: center;
+     
+}
+
+
+thead {
+    border: 3px solid #1e2124;
+    border-spacing: 0.3em; 
+    background-color: darkgray;
+    box-align: center;
+    
+     
+}
+
+
+
+table {
+   width: 800px;
+   margin-left:auto;
+   margin-right:auto;
+}
+
+
+
+tbody tr:nth-shild(even) {
+   background-color:  #2C2F33;
+   color: #000;
+
+}
+
+
+th[scope=row] {
+   color: #282b30;
+}
+
+
+.center {
+   margin-left: auto;
+   margin-right: auto;
+}
+
+
+/*BACKGROUND COLOUR */
+
+body {
+   background-color: black;
+   color: #bbe1fa;
+
+   text-align: center;
+}
+
+
+
+/*________________________*/
+
+
+#coll {border-collapse: collapse; }
+
+
+
+caption {
+   text-align: middle;
+   font-size: 25px;
+}
+
+
+
+h1 {
+   color: #3282b8; 
+   text-shadow: 10px 12px 14p #ffffff;
+}
+
+
+h2 {
+   color: #7289da; 
+   text-shadow: 10px 12px 14p #ffffff;
+}
+
+
+td.yellow {
+    color: yellow;
+}
+
+
+td.red {
+    color: red;
+}
+
+td.orange {
+    color: rgb(232, 121, 17);
+}
+
+td.green {
+    color: green;
+}
+
+
+td.blue {
+    color: rgb(52, 122, 213);
+}
+
+td.purple {
+    color: rgb(156, 75, 213); 
+}
