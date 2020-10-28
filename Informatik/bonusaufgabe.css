@@ -1,0 +1,33 @@
+
+
+/* TABLE */
+
+table, th, td {
+    border: 3px solid #1e2124;
+    border-spacing: 0.1em; 
+    
+    box-align: center;
+   text-align: center;
+     
+}
+
+
+thead {
+    border: 3px solid #1e2124;
+    border-spacing: 0.1em; 
+    background-color: darkgray;
+    box-align: center;
+    
+     
+}
+
+
+
+table {
+  
+   margin-left:auto;
+   margin-right:auto;
+}
+
+
+
